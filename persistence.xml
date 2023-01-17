@@ -7,7 +7,7 @@
     <!-- <class></class> -->
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
-            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:puerto/no" />
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:puerto/nombreBaseDatos" />
             <property name="jakarta.persistence.jdbc.user" value="root" />
             <property name="jakarta.persistence.jdbc.password" value="" />
             <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect" />
